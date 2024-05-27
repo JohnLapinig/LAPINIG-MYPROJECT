@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LAPINIG-MYPROJECT", "LAPINIG-MYPROJECT.csproj", "{C598CFBF-94F4-40CA-AC0B-E756AB3C7A83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C598CFBF-94F4-40CA-AC0B-E756AB3C7A83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C598CFBF-94F4-40CA-AC0B-E756AB3C7A83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C598CFBF-94F4-40CA-AC0B-E756AB3C7A83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C598CFBF-94F4-40CA-AC0B-E756AB3C7A83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B29B2EA7-BEF2-4DFB-B673-5389EDEFAF78}
+	EndGlobalSection
+EndGlobal
